@@ -1,5 +1,3 @@
-# Novo conteúdo atualizado do README.md com escopo completo
-readme_updated = """
 # 🇺🇸 Tio Sam – Chatbot de Triagem Imigratória Completa (Python)
 
 **Tio Sam** é um chatbot interativo em Python que atua como um assistente paralegal de imigração para os Estados Unidos. Ele coleta dados do usuário de forma humanizada, analisa seu perfil com base nas regras reais da USCIS e sugere os melhores caminhos imigratórios em diversas categorias:
