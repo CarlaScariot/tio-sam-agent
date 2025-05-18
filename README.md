@@ -60,12 +60,6 @@ Se este projeto te ajudou ou te inspirou, compartilhe no LinkedIn com a hashtag 
 
 ---
 
-> Desenvolvido com carinho por Carla 💙
+> Primeiro projeto Desenvolvido por Carla 💙
 """
 
-# Salvar novo README.md
-readme_path_updated = "/mnt/data/README.md"
-with open(readme_path_updated, "w", encoding="utf-8") as f:
-    f.write(readme_updated)
-
-readme_path_updated
